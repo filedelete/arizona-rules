@@ -1,11 +1,11 @@
 {
-  "version": "2025-05-03",
+  "version": "2025-05-01",
   "categories": [
     {
       "title": "АДМИН-РАЗДЕЛ",
       "rules": [
         {
-          "title": "Общие положения и терминология",
+          "title": "112Общие положения и терминология",
           "link": "https://forum.arizona-rp.com/threads/9451211/",
           "blocks": [
             {
